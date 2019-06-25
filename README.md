@@ -4,9 +4,7 @@
 My first Android App!!
 
 ### App Walk-though
-<img src="https://im4.ezgif.com/tmp/ezgif-4-ce2fd09f9b27.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://im4.ezgif.com/tmp/ezgif-4-ce2fd09f9b27.gif" width=400><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
